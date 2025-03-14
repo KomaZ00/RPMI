@@ -1,0 +1,291 @@
+._2-d,
+._2-d * {
+  box-sizing: border-box;
+}
+._2-d {
+  background: #ffffff;
+  height: 1078px;
+  position: relative;
+  overflow: hidden;
+}
+.next {
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  left: 1713px;
+  top: 897px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.vector {
+  width: 83.33%;
+  height: 83.33%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.typcn-arrow-up-outline {
+  width: 64.65px;
+  height: 64.65px;
+  position: absolute;
+  left: 81.02px;
+  top: 18.37px;
+  transform: translate(-65.02px, -0.37px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.entradas {
+  color: #000000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 119.24%;
+  font-weight: 400;
+  position: absolute;
+  left: 1558px;
+  top: 930px;
+  width: 151px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.te-gustan-las-pel-culas-de-disney-eres-m-s-de-animaci-n-2-d-oriental-o-quiz-s-buscas-algo-nuevo-y-desconocido-pues-en-esta-secci-n-se-proyectar-n-trabajos-de-varios-estudios-de-animaci-n-famosos-pixar-dreamworks-ghibli-etc-y-tambi-n-de-equipos-peque-os-y-o-independientes-tambi-n-podr-s-disfrutar-de-charlas-demostraciones-y-talleres-con-trabajadores-de-la-insdustria-de-la-animaci-n-aprendiendo-de-todos-los-estilos-posibles-esta-secci-n-tendr-tambi-n-peque-os-stands-de-merchandising-a-la-disposici-n-del-p-blico-puedes-encontrarte-desde-peque-os-dibujos-hasta-grandes-figuras-o-incluso-obras-de-artesan-a {
+  color: #000000;
+  text-align: right;
+  font-family: "InriaSans-Italic", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  left: 863px;
+  top: 326px;
+  width: 1025px;
+  height: 643px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.animaci-n {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  top: 250px;
+  left: 1400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.barra-inferior {
+  background: linear-gradient(to left, #000000, #000000);
+  padding: 3px 130px 3px 130px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1923px;
+  position: absolute;
+  left: 0px;
+  top: 1032px;
+  overflow: hidden;
+}
+.vector2 {
+  flex-shrink: 0;
+  width: 51px;
+  height: 41px;
+  position: relative;
+  overflow: visible;
+}
+.vector3 {
+  flex-shrink: 0;
+  width: 39.75px;
+  height: 35.25px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-7 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 35px;
+  position: relative;
+}
+.rectangle-72 {
+  background: #d9d9d9;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+  left: 55px;
+  top: 0px;
+}
+.mage-instagram-square {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 46px;
+  top: -11px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.fa-6-brands-square-x-twitter {
+  width: 48.12px;
+  height: 55px;
+  position: absolute;
+  left: -5px;
+  top: -10px;
+  overflow: visible;
+  aspect-ratio: 48.12/55;
+}
+.line-md-youtube {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 105px;
+  top: -5px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.barra-superior {
+  padding: 38px 0px 38px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 407px;
+  height: 282px;
+  position: absolute;
+  left: 960px;
+  translate: -50%;
+  top: -74px;
+}
+.ellipse-1 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-1 {
+  background: #000000;
+  flex-shrink: 0;
+  width: 1923px;
+  height: 136px;
+  position: relative;
+}
+.frame-3 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 857px;
+  height: 31px;
+  position: absolute;
+  left: -225px;
+  top: 125px;
+}
+.line {
+  background: #d4d4d4;
+  border-radius: 62px;
+  width: 176px;
+  height: 31px;
+  position: absolute;
+  left: -9px;
+  top: 0px;
+}
+.inicio {
+  color: #000000;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: -9px;
+  top: 0px;
+  width: 176px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px rgba(149, 149, 149, 0);
+}
+.line2 {
+  background: #d4d4d4;
+  border-radius: 88px;
+  width: 176px;
+  height: 31px;
+  position: absolute;
+  left: 647px;
+  top: 0px;
+}
+.entradas2 {
+  color: #000000;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 647px;
+  top: 0px;
+  width: 176px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px rgba(149, 149, 149, 0);
+}
+.image-2 {
+  flex-shrink: 0;
+  width: 104px;
+  height: 136px;
+  position: absolute;
+  left: 152px;
+  top: 121px;
+  object-fit: cover;
+}
+.image-7 {
+  border-radius: 150px;
+  width: 531px;
+  height: 376px;
+  position: absolute;
+  left: 113px;
+  top: 208px;
+  object-fit: cover;
+  aspect-ratio: 531/376;
+}
+.image-8 {
+  border-radius: 150px;
+  width: 531px;
+  height: 324px;
+  position: absolute;
+  left: 113px;
+  top: 606px;
+  object-fit: cover;
+  aspect-ratio: 531/324;
+}

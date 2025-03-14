@@ -1,0 +1,328 @@
+.entradas,
+.entradas * {
+  box-sizing: border-box;
+}
+.entradas {
+  background: #ffffff;
+  height: 1078px;
+  position: relative;
+  overflow: hidden;
+}
+.barra-superior {
+  padding: 38px 0px 38px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 407px;
+  height: 282px;
+  position: absolute;
+  left: 960px;
+  translate: -50%;
+  top: -74px;
+}
+.ellipse-1 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-1 {
+  background: #000000;
+  flex-shrink: 0;
+  width: 1923px;
+  height: 136px;
+  position: relative;
+}
+.frame-3 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 857px;
+  height: 31px;
+  position: absolute;
+  left: -225px;
+  top: 125px;
+}
+.line {
+  background: #d4d4d4;
+  border-radius: 62px;
+  width: 176px;
+  height: 31px;
+  position: absolute;
+  left: -9px;
+  top: 0px;
+}
+.inicio {
+  color: #000000;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: -9px;
+  top: 0px;
+  width: 176px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px rgba(149, 149, 149, 0);
+}
+.line2 {
+  background: #d4d4d4;
+  border-radius: 88px;
+  width: 176px;
+  height: 31px;
+  position: absolute;
+  left: 647px;
+  top: 0px;
+}
+.entradas2 {
+  color: #000000;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 647px;
+  top: 0px;
+  width: 176px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px rgba(149, 149, 149, 0);
+}
+.image-2 {
+  flex-shrink: 0;
+  width: 104px;
+  height: 136px;
+  position: absolute;
+  left: 152px;
+  top: 121px;
+  object-fit: cover;
+}
+.barra-inferior {
+  background: linear-gradient(to left, #000000, #000000);
+  padding: 3px 130px 3px 130px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1923px;
+  position: absolute;
+  left: 0px;
+  top: 1032px;
+  overflow: hidden;
+}
+.vector {
+  flex-shrink: 0;
+  width: 51px;
+  height: 41px;
+  position: relative;
+  overflow: visible;
+}
+.vector2 {
+  flex-shrink: 0;
+  width: 39.75px;
+  height: 35.25px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-7 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 35px;
+  position: relative;
+}
+.rectangle-72 {
+  background: #d9d9d9;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  width: 38px;
+  height: 35px;
+  position: absolute;
+  left: 55px;
+  top: 0px;
+}
+.mage-instagram-square {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 46px;
+  top: -11px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.fa-6-brands-square-x-twitter {
+  width: 48.12px;
+  height: 55px;
+  position: absolute;
+  left: -5px;
+  top: -10px;
+  overflow: visible;
+  aspect-ratio: 48.12/55;
+}
+.line-md-youtube {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 105px;
+  top: -5px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle-8 {
+  width: 556px;
+  height: 498px;
+  position: absolute;
+  left: 1220px;
+  top: 290px;
+}
+.rectangle-82 {
+  background: #000000;
+  border-radius: 144px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.horarios {
+  color: #ffffff;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 171px;
+  top: 34px;
+  width: 213px;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.viernes-12-00-am-10-00-pm-sabado-10-30-am-11-00-pm-domingo-12-00-am-19-00-pm {
+  color: #ffffff;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 139px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.star-1 {
+  width: 654px;
+  height: 510px;
+  position: absolute;
+  left: 56px;
+  top: 290px;
+}
+.star-12 {
+  width: 113.85%;
+  height: 113.8%;
+  position: absolute;
+  right: -6.99%;
+  left: -6.86%;
+  bottom: -6.9%;
+  top: -6.9%;
+  overflow: visible;
+}
+.entradas3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 220px;
+  top: 168px;
+  width: 213px;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._1-dia-8-3-dias-21 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 85.59%;
+  font-weight: 400;
+  position: absolute;
+  left: 244px;
+  top: 252px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.entypo-ticket {
+  width: 379.23px;
+  height: 379.23px;
+  position: absolute;
+  left: 964.13px;
+  top: 609px;
+  transform-origin: 0 0;
+  transform: rotate(45.638deg) scale(1, 1);
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.vector3 {
+  width: 94.01%;
+  height: 94%;
+  position: absolute;
+  right: 3%;
+  left: 2.99%;
+  bottom: 3%;
+  top: 3%;
+  overflow: visible;
+}
+.compra-ya {
+  color: #ffffff;
+  text-align: center;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  right: 25.93%;
+  left: 29.62%;
+  width: 42.45%;
+  bottom: 28.93%;
+  top: 25.58%;
+  transform-origin: 0 0;
+  transform: rotate(3.638deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
